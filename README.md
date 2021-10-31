@@ -1,4 +1,4 @@
-# sba
+# sba-mobile-app
 
 A new Flutter project.
 
