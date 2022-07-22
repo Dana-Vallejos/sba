@@ -1,6 +1,6 @@
 # sba-mobile-app
 
-A new Flutter project.
+Flutter project for academic purposes. Development of an application that connects users with specialized technicians.
 
 ## Getting Started
 
